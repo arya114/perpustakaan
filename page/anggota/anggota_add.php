@@ -10,7 +10,7 @@
                 <form action="page/anggota/anggota_add_action.php" method="post" name="form1">
                     <table width="25%" border="0">
                         <tr> 
-                            <td>Kode Anggota</td>
+                            <td> Anggota</td>
                             <td><input type="text" name="kode_anggota" class="form-control"></td>
                         </tr>
                         <tr> 
