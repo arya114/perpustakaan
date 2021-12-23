@@ -14,7 +14,7 @@
                             <td><input type="text" name="kode_anggota" class="form-control"></td>
                         </tr>
                         <tr> 
-                            <td>Nama</td>
+                            <td>name</td>
                             <td><input type="text" name="nama" class="form-control"></td>
                         </tr>
                         <tr> 
